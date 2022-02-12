@@ -1,8 +1,18 @@
+@charset "UTF-8";
 * {
   padding: 0;
   margin: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+}
+
+.portada {
+  background: url(../Img/Servicio-técnico-Corberó-Fuerteventura.jpg);
+  height: 22rem;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 .numero__index {

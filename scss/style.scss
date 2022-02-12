@@ -4,15 +4,11 @@
     box-sizing: border-box;
 }
 
-
+@import "_index.scss";
 @import "_footer.scss";
 
 
-    
-
-
-
-.numero__index{
+    .numero__index{
     background-color: black;
     color: white;
     width: 100%;
