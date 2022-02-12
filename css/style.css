@@ -7,12 +7,13 @@
 }
 
 .portada {
-  background: url(../Img/Servicio-técnico-Corberó-Fuerteventura.jpg);
-  height: 22rem;
+  background: url(/Img/Servicio-técnico-Corberó-Fuerteventura.jpg);
+  height: 27rem;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
   background-position: center;
 }
 
