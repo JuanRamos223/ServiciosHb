@@ -28,6 +28,23 @@
   top: 282px;
 }
 
+/* MAIN----------------------- */
+.titulo__index {
+  margin-top: 20px;
+  color: #81b5d6;
+  text-align: center;
+}
+
+.titulo__index h2 {
+  margin-top: 20px;
+  color: black;
+}
+
+.titulo__index p {
+  margin-top: 20px;
+  font-size: 45px;
+}
+
 @media (max-width: 992px) {
   .portada {
     width: 100%;
