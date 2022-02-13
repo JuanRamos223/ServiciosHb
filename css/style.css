@@ -45,6 +45,10 @@
   font-size: 45px;
 }
 
+.subfooter {
+  width: 100%;
+}
+
 @media (max-width: 992px) {
   .portada {
     width: 100%;
