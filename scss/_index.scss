@@ -21,7 +21,7 @@
 }
 /* MAIN----------------------- */
 
-@media (max-width:1392px) {
+@media (max-width:1492px) {
    
     .titulo__index{
         
@@ -44,7 +44,14 @@
   
   width: 100%;
   
-  
+  .img__index{
+   width: 400px;
+   
+    img{
+        width: 200px;
+        
+    }
+}
 }
 .parrafos_centrados{
     text-align: center;
@@ -72,10 +79,10 @@
         padding: 4px;
     }
     .img__index{
+        
         img{
             width: 200px;
         }
     }
 }
-
 

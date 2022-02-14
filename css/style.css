@@ -29,7 +29,7 @@
 }
 
 /* MAIN----------------------- */
-@media (max-width: 1392px) {
+@media (max-width: 1492px) {
   .titulo__index {
     color: #81b5d6;
     text-align: center;
@@ -46,6 +46,12 @@
   }
   .portada {
     width: 100%;
+  }
+  .portada .img__index {
+    width: 400px;
+  }
+  .portada .img__index img {
+    width: 200px;
   }
   .parrafos_centrados {
     text-align: center;
