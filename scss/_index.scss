@@ -22,16 +22,7 @@
 /* MAIN----------------------- */
 
 @media (max-width:1392px) {
-    .img__index{
-        display: flex;
-        justify-content: center;
-        justify-content: space-around;
-        width: 100%;
-        img{
-            width: 300px;
-            height: 250px;
-        }
-    }
+   
     .titulo__index{
         
         color: #81b5d6;
@@ -82,7 +73,7 @@
     }
     .img__index{
         img{
-            width: 100px;
+            width: 200px;
         }
     }
 }

@@ -30,21 +30,6 @@
 
 /* MAIN----------------------- */
 @media (max-width: 1392px) {
-  .img__index {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -ms-flex-pack: distribute;
-        justify-content: space-around;
-    width: 100%;
-  }
-  .img__index img {
-    width: 300px;
-    height: 250px;
-  }
   .titulo__index {
     color: #81b5d6;
     text-align: center;
@@ -88,7 +73,7 @@
     padding: 4px;
   }
   .img__index img {
-    width: 100px;
+    width: 200px;
   }
 }
 
