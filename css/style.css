@@ -30,11 +30,27 @@
 
 /* MAIN----------------------- */
 @media (max-width: 1392px) {
+  .img__index {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    width: 100%;
+  }
+  .img__index img {
+    width: 300px;
+    height: 250px;
+  }
   .titulo__index {
     color: #81b5d6;
     text-align: center;
   }
   .titulo__index h2 {
+    margin-top: 55px;
     color: black;
   }
   .titulo__index p {
@@ -49,7 +65,7 @@
   .parrafos_centrados {
     text-align: center;
     font-size: 1rem;
-    padding: 24px;
+    padding: 54px;
     color: #606060;
   }
   .separator {
@@ -70,6 +86,9 @@
     color: #606060;
     font-size: 1.3rem;
     padding: 4px;
+  }
+  .img__index img {
+    width: 100px;
   }
 }
 
