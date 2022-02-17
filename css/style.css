@@ -29,7 +29,7 @@
 }
 
 /* MAIN----------------------- */
-@media (max-width: 1492px) {
+@media (max-width: 1992px) {
   .titulo__index {
     color: #81b5d6;
     text-align: center;
@@ -65,7 +65,7 @@
   }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 375px) {
   .portada {
     background-attachment: fixed;
     height: 400px;
@@ -84,6 +84,14 @@
 }
 
 footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
   width: 100%;
   height: 100%;
   background-color: black;
