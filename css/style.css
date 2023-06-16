@@ -40,7 +40,7 @@ body{
   }
   .titulo__index h2 {
     margin-top: 55px;
-    color: black;
+    color: #ffffff;
   }
   .titulo__index p {
     font-size: 45px;
@@ -90,7 +90,7 @@ body{
 /*Footeer ----------------------------------------------------------------------------- */
 .Contactame_titulo{
   font-size: 30px;
-  color: black;
+  color: #81b5d6;
   display: flex;
   justify-content: center;
 }
