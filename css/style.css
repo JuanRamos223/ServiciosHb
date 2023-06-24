@@ -34,6 +34,7 @@ body{
 
 /* MAIN----------------------- */
 @media (max-width: 1992px) {
+  
   .titulo__index {
     color: #81b5d6;
     text-align: center;
@@ -71,6 +72,7 @@ body{
 }
 
 @media (max-width: 375px) {
+ 
   .portada {
     background-attachment: fixed;
     height: 400px;
@@ -119,6 +121,7 @@ footer {
 }
 
 @media (max-width: 412px) {
+
   .icon__footer {
     font-size: 30px;
   }
@@ -263,6 +266,7 @@ footer {
   transition: opacity 0.25s ease;
   text-align: center;
 }
+
 .vc_custom_1539444075635{
   background: url(/Img/aire1.jpg);
   height: 27rem;
@@ -284,9 +288,8 @@ footer {
   padding: 15px;
   display: flex;
   flex-direction: column-reverse;
-  
-  
-  
-  
+}
+.texto__carrousel{
+  font-size: 25px;
 }
 /*# sourceMappingURL=style.css.map */
