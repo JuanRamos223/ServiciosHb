@@ -263,4 +263,30 @@ footer {
   transition: opacity 0.25s ease;
   text-align: center;
 }
+.vc_custom_1539444075635{
+  background: url(/Img/aire1.jpg);
+  height: 27rem;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+.text__clientes{
+  
+  font-size: 25px;
+  text-align: center;
+  color: #ffff;
+  padding: 15px;
+ 
+}
+.card__aire{
+  padding: 15px;
+  display: flex;
+  flex-direction: column-reverse;
+  
+  
+  
+  
+}
 /*# sourceMappingURL=style.css.map */
