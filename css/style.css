@@ -34,7 +34,9 @@ body{
 
 /* MAIN----------------------- */
 @media (max-width: 1992px) {
-  
+  .texto__carrousel{
+    font-size: 25px;
+  }
   .titulo__index {
     color: #81b5d6;
     text-align: center;
@@ -72,7 +74,9 @@ body{
 }
 
 @media (max-width: 375px) {
- 
+  .texto__carrousel{
+    font-size: 15px;
+  }
   .portada {
     background-attachment: fixed;
     height: 400px;
@@ -121,7 +125,9 @@ footer {
 }
 
 @media (max-width: 412px) {
-
+  .texto__carrousel{
+    font-size: 15px;
+  }
   .icon__footer {
     font-size: 30px;
   }
@@ -289,7 +295,5 @@ footer {
   display: flex;
   flex-direction: column-reverse;
 }
-.texto__carrousel{
-  font-size: 25px;
-}
+
 /*# sourceMappingURL=style.css.map */
